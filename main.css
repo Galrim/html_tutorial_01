@@ -7,3 +7,17 @@
 body {
     font-family: NanumGothic;
 }
+
+h1, h2 {
+    text-transform: uppercase;
+}
+
+#navigation, #navigation a {
+    color: orangered;
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
