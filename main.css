@@ -1,3 +1,9 @@
 .general {
     color: darkred;
+    font-style: oblique;
+    font-family: NanumBarunGothic;
+}
+
+p {
+    font-family: NanumGothic;
 }
